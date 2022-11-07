@@ -367,6 +367,18 @@ export const themes = {
     text_color: "e0def4",
     bg_color: "191724",
   },
+  yunsOneDrak: {
+    title_color: "c678dd",
+    icon_color: "98c379",
+    text_color: "abb2bf",
+    bg_color: "282c34",
+  },
+    yunsOneLight: {
+    title_color: "a626a4",
+    icon_color: "54a14f",
+    text_color: "383a43",
+    bg_color: "fafafa",
+  },
 };
 
 export default themes;
