@@ -373,7 +373,7 @@ export const themes = {
     text_color: "abb2bf",
     bg_color: "282c34",
   },
-    yunsOneLight: {
+  yunsOneLight: {
     title_color: "a626a4",
     icon_color: "54a14f",
     text_color: "383a43",
